@@ -51,11 +51,10 @@ C. BUILD BITCOIN-CORE
     1. $ ./autogen.sh
     2. $ ./configure
     3. $ make
-
-    E. TEST BITCOIN-CORE *OPTIONAL
+D. TEST BITCOIN-CORE *OPTIONAL
     1. $ make check
    
-    F. DEPLOY BITCOIN-CORE
+E. DEPLOY BITCOIN-CORE
     1. $ make deploy
 
 
