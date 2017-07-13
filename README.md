@@ -1,14 +1,15 @@
 # Plutuscoin
+/* See https://medium.com/@plutusintl to get detailed tutorial with pictures
+ *  MADE BY ANGEL MONDRAGON 2017
+ *  EMAIL HELLO@PLUTUSCOINS.COM FOR QUESTIONS & HELP 
+ *      - SUBJECT LINE (CHOOSE ONE): SETUPHELP or EDITING HELP
+ */
+ 
 I. Basics
     1. Open up terminal ((⌘ + F) > Type: Terminal > Return)
-    2. 
-    3. 
-    4.  
-    5. 
-    6. Copy & Paste all "$ [commands]” into the terminal above 
+    2. Copy & Paste all "$ [commands]” into the terminal above 
 
 II. MAC OSX ONLY
-
     A. SET UP ENVIRONMENT
         // INSTALL XCODE
     1. $ xcode-select —-install  
@@ -20,7 +21,7 @@ II. MAC OSX ONLY
     2. $ brew install librsvg
 
     B. CLONE & GET INTO bitcoin 
-    1.  $ git clone https://github.com/bitcoin/bitcoin 
+    1. $ git clone https://github.com/Plutuscoins/Plutuscoin.git 
     2. $ cd ls -la 
         * (make sure you see a plutuscoin and/or plutuscoin.zip in list) 
         * If not go to Downloads folder and look up plutuscoin and/or plutuscoin.zip folder/file. Copy file and go to $HOME directory (in Finder window (⌘ + Shift + G) > Type: /Users/$YourUSERName/ > RTturn) 
